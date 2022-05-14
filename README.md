@@ -8,4 +8,4 @@ This repository is the source code of the post "Make Huawei and Google do busine
 ![Mapy using GMS](/resources/MapyGMaps.png)
 ![Mapy using HMS](/resources/MapyPetal.png)
 
-More information ![here](https://calo.hashnode.dev/make-huawei-and-google-do-business-again)!
+More information [here](https://calo.hashnode.dev/make-huawei-and-google-do-business-again)!
